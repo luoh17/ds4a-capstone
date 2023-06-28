@@ -1,0 +1,28 @@
+Field,Value
+Title,Income Limits by County
+URL,income-limits-by-county
+Description,"California State Income Limits reflect updated median income and household income levels for acutely low-, extremely low-, very low-, low- and moderate-income households for California’s 58 counties (required by Health and Safety Code Section 50093). These income limits apply to State and local affordable housing programs statutorily linked to HUD income limits and differ from income limits applicable to other specific federal, State, or local programs."
+Tags,"Affordable Housing,HUD,Income Limits,Median Income"
+License,other-pd
+Topic,economy-and-demographics
+Organization,California Department of Housing and Community Development
+Public Access Level,Public
+Rights,No restrictions on public use
+Program Contact Name,Data and Innovation Unit Housing Policy Division
+Program Contact Email,DataHPD@hcd.ca.gov
+Author,
+Homepage URL,
+Frequency,Annual
+Temporal Coverage,
+Granularity,"County, Household Size, Income Levels"
+Geographic Coverage Location,California
+Spatial,County
+Data Standard,
+Language,
+Source Link,https://www.hcd.ca.gov/grants-and-funding/income-limits/state-and-federal-income-rent-and-loan-value-limits
+Additional Information,"The California Department of Housing and Community Development updates its income limits when the US Department of Housing and Urban development updates its Section 8 program income limits.
+
+In 2013, the California Department of Housing and Community Development (HCD) implemented a State Hold Harmless Policy as a result of the discontinuation of the U.S. Department of Housing and Urban Development’s (HUD’s) long-standing Hold Harmless Policy in 2009. The purpose of HUD’s former Hold Harmless policy was to not allow decreases to county area median income (AMI) and household size income limit figures when annually updating Section 8 income limits. HCD’s Hold Harmless policy, identical to HUD’s former policy, applies to State and local affordable housing programs statutorily linked to HUD income limits. "
+Related Resources,https://www.huduser.gov/portal/datasets/il/il22/IncomeLimitsMethodology-FY22.pdf
+Secondary Sources,
+Citation,
