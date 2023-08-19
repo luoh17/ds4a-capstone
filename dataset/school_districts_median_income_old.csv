@@ -1,0 +1,943 @@
+DistrictCode,CountyName,DistrictName,SEDcount,SEDpct,MedianIncome
+61119,Alameda,Alameda Unified,3202,29.3,59976
+61127,Alameda,Albany City Unified,608,17.4,59976
+61143,Alameda,Berkeley Unified,2563,27.2,59976
+61150,Alameda,Castro Valley Unified,2067,22.5,59976
+61168,Alameda,Emery Unified,561,80.4,59976
+61176,Alameda,Fremont Unified,6965,19.8,59976
+61192,Alameda,Hayward Unified,13685,63.2,59976
+61200,Alameda,Livermore Valley Joint Unified,3280,24.7,59976
+61218,Alameda,Mountain House Elementary,12,75.0,59976
+61234,Alameda,Newark Unified,3025,54.9,59976
+61242,Alameda,New Haven Unified,4474,41.4,59976
+61259,Alameda,Oakland Unified,35727,73.4,59976
+61275,Alameda,Piedmont City Unified,58,2.4,59976
+61291,Alameda,San Leandro Unified,5575,63.2,59976
+61309,Alameda,San Lorenzo Unified,6661,63.3,59976
+75093,Alameda,Dublin Unified,924,7.3,59976
+75101,Alameda,Pleasanton Unified,1265,8.7,59976
+75119,Alameda,Sunol Glen Unified,27,9.9,59976
+61333,Alpine,Alpine County Unified,45,61.6,31360
+73981,Amador,Amador County Unified,1674,43.0,44261
+61382,Butte,Bangor Union Elementary,84,78.5,34586
+61408,Butte,Biggs Unified,370,65.7,34586
+61424,Butte,Chico Unified,6853,49.3,34586
+61432,Butte,Durham Unified,450,45.4,34586
+61457,Butte,Golden Feather Union Elementary,53,85.5,34586
+61499,Butte,Manzanita Elementary,125,45.3,34586
+61507,Butte,Oroville City Elementary,1907,75.3,34586
+61515,Butte,Oroville Union High,1717,73.6,34586
+61523,Butte,Palermo Union Elementary,1004,78.6,34586
+61531,Butte,Paradise Unified,1370,65.2,34586
+61549,Butte,Thermalito Union Elementary,1311,87.0,34586
+73379,Butte,Pioneer Union Elementary,52,100.0,34586
+75507,Butte,Gridley Unified,1644,79.0,34586
+61556,Calaveras,Bret Harte Union High,223,35.7,41045
+61564,Calaveras,Calaveras Unified,1371,51.1,41045
+61572,Calaveras,Mark Twain Union Elementary,403,58.4,41045
+61580,Calaveras,Vallecito Union,254,46.7,41045
+61598,Colusa,Colusa Unified,983,64.3,39089
+61606,Colusa,Maxwell Unified,244,75.1,39089
+61614,Colusa,Pierce Joint Unified,954,66.1,39089
+61622,Colusa,Williams Unified,1195,89.3,39089
+61630,Contra Costa,Acalanes Union High,382,6.9,54897
+61648,Contra Costa,Antioch Unified,11570,69.7,54897
+61655,Contra Costa,Brentwood Union Elementary,2216,24.6,54897
+61663,Contra Costa,Byron Union Elementary,730,33.3,54897
+61671,Contra Costa,Canyon Elementary,7,9.7,54897
+61697,Contra Costa,John Swett Unified,786,59.9,54897
+61705,Contra Costa,Knightsen Elementary,162,26.6,54897
+61713,Contra Costa,Lafayette Elementary,111,3.4,54897
+61721,Contra Costa,Liberty Union High,2271,27.6,54897
+61739,Contra Costa,Martinez Unified,1019,25.6,54897
+61747,Contra Costa,Moraga Elementary,62,3.5,54897
+61754,Contra Costa,Mt. Diablo Unified,12402,41.5,54897
+61762,Contra Costa,Oakley Union Elementary,2136,43.2,54897
+61770,Contra Costa,Orinda Union Elementary,58,2.3,54897
+61788,Contra Costa,Pittsburg Unified,8510,77.3,54897
+61796,Contra Costa,West Contra Costa Unified,21264,68.5,54897
+61804,Contra Costa,San Ramon Valley Unified,1728,5.6,54897
+61812,Contra Costa,Walnut Creek Elementary,430,12.4,54897
+61820,Del Norte,Del Norte County Unified,2523,66.1,33632
+61838,El Dorado,Buckeye Union Elementary,2008,23.6,51785
+61846,El Dorado,Camino Union Elementary,184,43.3,51785
+61853,El Dorado,El Dorado Union High,1621,23.7,51785
+61879,El Dorado,Gold Oak Union Elementary,149,35.6,51785
+61887,El Dorado,Gold Trail Union Elementary,152,25.6,51785
+61895,El Dorado,Indian Diggings Elementary,8,57.1,51785
+61903,El Dorado,Lake Tahoe Unified,1989,53.4,51785
+61911,El Dorado,Latrobe,16,10.8,51785
+61929,El Dorado,Mother Lode Union Elementary,441,47.2,51785
+61945,El Dorado,Pioneer Union Elementary,135,48.0,51785
+61952,El Dorado,Placerville Union Elementary,680,55.9,51785
+61960,El Dorado,Pollock Pines Elementary,273,46.7,51785
+61978,El Dorado,Rescue Union Elementary,580,16.9,51785
+61986,El Dorado,Silver Fork Elementary,8,44.4,51785
+73783,El Dorado,Black Oak Mine Unified,548,42.7,51785
+61994,Fresno,Alvina Elementary,144,77.8,32414
+62026,Fresno,Big Creek Elementary,51,100.0,32414
+62042,Fresno,Burrel Union Elementary,122,91.7,32414
+62109,Fresno,Clay Joint Elementary,36,16.7,32414
+62117,Fresno,Clovis Unified,23768,55.5,32414
+62125,Fresno,Coalinga-Huron Unified,4009,91.0,32414
+62158,Fresno,Fowler Unified,1878,72.7,32414
+62166,Fresno,Fresno Unified,62872,86.8,32414
+62240,Fresno,Kingsburg Elementary Charter,1331,62.9,32414
+62257,Fresno,Kingsburg Joint Union High,730,61.3,32414
+62265,Fresno,Kings Canyon Joint Unified,8510,88.3,32414
+62281,Fresno,Laton Joint Unified,532,84.0,32414
+62323,Fresno,Monroe Elementary,148,97.4,32414
+62331,Fresno,Orange Center,1190,80.4,32414
+62356,Fresno,Pacific Union Elementary,323,91.2,32414
+62364,Fresno,Parlier Unified,3176,93.0,32414
+62372,Fresno,Pine Ridge Elementary,70,77.8,32414
+62380,Fresno,Raisin City Elementary,524,99.1,32414
+62414,Fresno,Sanger Unified,8301,65.8,32414
+62430,Fresno,Selma Unified,5290,87.4,32414
+62513,Fresno,Washington Colony Elementary,374,83.9,32414
+62539,Fresno,West Park Elementary,563,88.7,32414
+62547,Fresno,Westside Elementary,2153,61.1,32414
+73809,Fresno,Firebaugh-Las Deltas Unified,1990,91.4,32414
+73965,Fresno,Central Unified,11023,70.0,32414
+73999,Fresno,Kerman Unified,4766,91.1,32414
+75127,Fresno,Mendota Unified,3582,97.7,32414
+75234,Fresno,Golden Plains Unified,1394,91.7,32414
+75275,Fresno,Sierra Unified,1046,86.9,32414
+75408,Fresno,Riverdale Joint Unified,1294,87.0,32414
+75598,Fresno,Caruthers Unified,1429,91.1,32414
+76778,Fresno,Washington Unified,2629,90.8,32414
+62554,Glenn,Capay Joint Union Elementary,83,46.4,36489
+62596,Glenn,Lake Elementary,314,49.3,36489
+62638,Glenn,Plaza Elementary,95,52.2,36489
+62646,Glenn,Princeton Joint Unified,104,73.8,36489
+62653,Glenn,Stony Creek Joint Unified,69,85.2,36489
+62661,Glenn,Willows Unified,1110,81.4,36489
+75481,Glenn,Orland Joint Unified,1880,83.8,36489
+76562,Glenn,Hamilton Unified,558,78.7,36489
+62679,Humboldt,Arcata Elementary,595,52.3,33244
+62687,Humboldt,Northern Humboldt Union High,780,42.8,33244
+62695,Humboldt,Big Lagoon Union Elementary,16,66.7,33244
+62703,Humboldt,Blue Lake Union Elementary,111,62.0,33244
+62729,Humboldt,Bridgeville Elementary,33,76.7,33244
+62737,Humboldt,Cuddeback Union Elementary,85,63.9,33244
+62745,Humboldt,Cutten Elementary,241,41.4,33244
+62794,Humboldt,Fieldbrook Elementary,52,44.8,33244
+62810,Humboldt,Fortuna Union High,596,52.4,33244
+62828,Humboldt,Freshwater Elementary,89,27.6,33244
+62836,Humboldt,Garfield Elementary,20,34.5,33244
+62851,Humboldt,Green Point Elementary,4,40.0,33244
+62885,Humboldt,Hydesville Elementary,63,36.0,33244
+62893,Humboldt,Jacoby Creek Elementary,131,28.9,33244
+62901,Humboldt,Klamath-Trinity Joint Unified,766,77.4,33244
+62919,Humboldt,Kneeland Elementary,12,46.2,33244
+62927,Humboldt,Loleta Union Elementary,90,92.8,33244
+62935,Humboldt,Maple Creek Elementary,8,72.7,33244
+62950,Humboldt,McKinleyville Union Elementary,622,64.1,33244
+62968,Humboldt,Orick Elementary,15,71.4,33244
+62976,Humboldt,Pacific Union Elementary,281,47.7,33244
+62984,Humboldt,Peninsula Union,31,93.9,33244
+63008,Humboldt,Rio Dell Elementary,235,78.6,33244
+63024,Humboldt,Scotia Union Elementary,133,70.7,33244
+63032,Humboldt,South Bay Union Elementary,640,67.1,33244
+63040,Humboldt,Southern Humboldt Joint Unified,398,59.8,33244
+63057,Humboldt,Trinidad Union Elementary,108,58.4,33244
+75374,Humboldt,Ferndale Unified,264,58.1,33244
+75382,Humboldt,Mattole Unified,11,24.4,33244
+75515,Humboldt,Eureka City Schools,2587,69.6,33244
+76802,Humboldt,Fortuna Elementary,887,71.0,33244
+63073,Imperial,Brawley Elementary,3478,89.2,25451
+63081,Imperial,Brawley Union High,1554,77.0,25451
+63099,Imperial,Calexico Unified,7685,88.1,25451
+63107,Imperial,Calipatria Unified,1003,89.0,25451
+63115,Imperial,Central Union High,3139,75.8,25451
+63123,Imperial,El Centro Elementary,4625,83.5,25451
+63131,Imperial,Heber Elementary,847,71.7,25451
+63149,Imperial,Holtville Unified,1248,77.4,25451
+63164,Imperial,Imperial Unified,2177,50.2,25451
+63172,Imperial,Magnolia Union Elementary,14,10.4,25451
+63180,Imperial,McCabe Union Elementary,402,30.6,25451
+63198,Imperial,Meadows Union Elementary,339,81.3,25451
+63206,Imperial,Mulberry Elementary,23,29.5,25451
+63214,Imperial,San Pasqual Valley Unified,541,88.8,25451
+63222,Imperial,Seeley Union Elementary,363,92.4,25451
+63230,Imperial,Westmorland Union Elementary,354,95.9,25451
+63248,Inyo,Big Pine Unified,91,58.7,41156
+63271,Inyo,Death Valley Unified,9,45.0,41156
+63289,Inyo,Lone Pine Unified,212,65.4,41156
+63297,Inyo,Owens Valley Unified,29,46.0,41156
+63305,Inyo,Round Valley Joint Elementary,26,42.6,41156
+76687,Inyo,Bishop Unified,1065,54.1,41156
+63313,Kern,Arvin Union,2876,95.1,31594
+63321,Kern,Bakersfield City,27205,92.8,31594
+63339,Kern,Beardsley Elementary,1754,94.5,31594
+63347,Kern,Belridge Elementary,23,92.0,31594
+63354,Kern,Blake Elementary,5,22.7,31594
+63362,Kern,Panama-Buena Vista Union,12452,68.2,31594
+63370,Kern,Buttonwillow Union Elementary,281,91.2,31594
+63388,Kern,Caliente Union Elementary,35,68.6,31594
+63404,Kern,Delano Union Elementary,5055,79.1,31594
+63412,Kern,Delano Joint Union High,3862,91.5,31594
+63420,Kern,Di Giorgio Elementary,199,100.0,31594
+63438,Kern,Edison Elementary,901,89.0,31594
+63446,Kern,Elk Hills Elementary,142,83.0,31594
+63461,Kern,Fairfax Elementary,2376,87.9,31594
+63479,Kern,Fruitvale Elementary,1681,55.0,31594
+63487,Kern,General Shafter Elementary,125,70.2,31594
+63503,Kern,Greenfield Union,6492,69.6,31594
+63529,Kern,Kern High,31394,74.1,31594
+63545,Kern,Kernville Union Elementary,656,80.8,31594
+63552,Kern,Lakeside Union,916,63.3,31594
+63560,Kern,Lamont Elementary,2655,93.2,31594
+63578,Kern,Richland Union Elementary,2772,81.8,31594
+63586,Kern,Linns Valley-Poso Flat Union,6,40.0,31594
+63594,Kern,Lost Hills Union Elementary,284,98.6,31594
+63610,Kern,Maple Elementary,107,37.2,31594
+63628,Kern,Maricopa Unified,6188,46.3,31594
+63651,Kern,McKittrick Elementary,26,38.8,31594
+63669,Kern,Midway Elementary,44,61.1,31594
+63677,Kern,Mojave Unified,2439,85.0,31594
+63685,Kern,Muroc Joint Unified,493,29.2,31594
+63693,Kern,Norris Elementary,1051,26.8,31594
+63719,Kern,Pond Union Elementary,157,95.7,31594
+63750,Kern,Rosedale Union Elementary,1776,30.8,31594
+63768,Kern,Semitropic Elementary,138,81.2,31594
+63776,Kern,Southern Kern Unified,2813,83.6,31594
+63784,Kern,South Fork Union,218,74.9,31594
+63792,Kern,Standard Elementary,2565,88.1,31594
+63800,Kern,Taft City,2030,87.4,31594
+63818,Kern,Taft Union High,900,82.2,31594
+63826,Kern,Tehachapi Unified,1483,37.3,31594
+63834,Kern,Vineland Elementary,665,99.8,31594
+63842,Kern,Wasco Union Elementary,3114,90.1,31594
+63859,Kern,Wasco Union High,1707,88.9,31594
+73544,Kern,Rio Bravo-Greeley Union Elementary,459,46.3,31594
+73742,Kern,Sierra Sands Unified,3119,63.0,31594
+73908,Kern,McFarland Unified,3062,88.9,31594
+75168,Kern,El Tejon Unified,437,62.5,31594
+63875,Kings,Armona Union Elementary,1420,81.7,34046
+63883,Kings,Central Union Elementary,745,41.8,34046
+63891,Kings,Corcoran Joint Unified,3038,93.3,34046
+63917,Kings,Hanford Elementary,4486,78.8,34046
+63925,Kings,Hanford Joint Union High,2672,65.9,34046
+63933,Kings,Island Union Elementary,176,44.2,34046
+63941,Kings,Kings River-Hardwick Union Elementary,186,23.4,34046
+63958,Kings,Kit Carson Union Elementary,1320,85.8,34046
+63966,Kings,Lakeside Union Elementary,249,93.6,34046
+63974,Kings,Lemoore Union Elementary,2246,69.6,34046
+63982,Kings,Lemoore Union High,1305,55.7,34046
+63990,Kings,Pioneer Union Elementary,886,57.5,34046
+73932,Kings,Reef-Sunset Unified,2590,94.9,34046
+64014,Lake,Kelseyville Unified,1230,70.5,32940
+64022,Lake,Konocti Unified,3209,89.1,32940
+64030,Lake,Lakeport Unified,1004,72.3,32940
+64048,Lake,Lucerne Elementary,232,84.7,32940
+64055,Lake,Middletown Unified,910,55.0,32940
+76976,Lake,Upper Lake Unified,693,81.3,32940
+64089,Lassen,Big Valley Joint Unified,81,69.2,44993
+64105,Lassen,Janesville Union Elementary,164,42.5,44993
+64113,Lassen,Johnstonville Elementary,83,46.6,44993
+64139,Lassen,Lassen Union High,319,38.8,44993
+64162,Lassen,Ravendale-Termo Elementary,11,91.7,44993
+64170,Lassen,Richmond Elementary,23,10.9,44993
+64188,Lassen,Shaffer Union Elementary,130,69.5,44993
+64196,Lassen,Susanville Elementary,663,54.3,44993
+64204,Lassen,Westwood Unified,144,76.2,44993
+75036,Lassen,Fort Sage Unified,262,51.9,44993
+64212,Los Angeles,ABC Unified,11659,59.7,35925
+64246,Los Angeles,Antelope Valley Union High,16303,71.5,35925
+64261,Los Angeles,Arcadia Unified,2513,28.1,35925
+64279,Los Angeles,Azusa Unified,6187,84.4,35925
+64287,Los Angeles,Baldwin Park Unified,12788,86.8,35925
+64295,Los Angeles,Bassett Unified,2941,91.5,35925
+64303,Los Angeles,Bellflower Unified,7904,73.7,35925
+64311,Los Angeles,Beverly Hills Unified,572,17.3,35925
+64329,Los Angeles,Bonita Unified,3563,36.8,35925
+64337,Los Angeles,Burbank Unified,4890,33.3,35925
+64345,Los Angeles,Castaic Union,602,32.4,35925
+64352,Los Angeles,Centinela Valley Union High,5354,80.4,35925
+64378,Los Angeles,Charter Oak Unified,2411,53.3,35925
+64394,Los Angeles,Claremont Unified,1914,28.4,35925
+64436,Los Angeles,Covina-Valley Unified,7738,68.3,35925
+64444,Los Angeles,Culver City Unified,1914,27.0,35925
+64451,Los Angeles,Downey Unified,14405,64.8,35925
+64469,Los Angeles,Duarte Unified,3344,62.9,35925
+64477,Los Angeles,Eastside Union Elementary,3011,95.1,35925
+64485,Los Angeles,East Whittier City Elementary,4157,50.5,35925
+64501,Los Angeles,El Monte City,6955,91.6,35925
+64519,Los Angeles,El Monte Union High,7583,90.7,35925
+64527,Los Angeles,El Rancho Unified,5731,71.8,35925
+64535,Los Angeles,El Segundo Unified,483,14.0,35925
+64550,Los Angeles,Garvey Elementary,3235,73.0,35925
+64568,Los Angeles,Glendale Unified,11499,46.1,35925
+64576,Los Angeles,Glendora Unified,1875,27.4,35925
+64584,Los Angeles,Gorman Joint,627,48.2,35925
+64592,Los Angeles,Hawthorne,6754,89.1,35925
+64600,Los Angeles,Hermosa Beach City Elementary,69,5.8,35925
+64626,Los Angeles,Hughes-Elizabeth Lakes Union Elementary,90,50.6,35925
+64634,Los Angeles,Inglewood Unified,8216,84.8,35925
+64642,Los Angeles,Keppel Union Elementary,2425,85.2,35925
+64659,Los Angeles,La Canada Unified,192,4.8,35925
+64667,Los Angeles,Lancaster Elementary,13006,88.2,35925
+64683,Los Angeles,Las Virgenes Unified,1242,12.1,35925
+64691,Los Angeles,Lawndale Elementary,4795,87.7,35925
+64709,Los Angeles,Lennox,6151,95.7,35925
+64717,Los Angeles,Little Lake City Elementary,2830,69.4,35925
+64725,Los Angeles,Long Beach Unified,45233,64.9,35925
+64733,Los Angeles,Los Angeles Unified,469179,81.6,35925
+64758,Los Angeles,Los Nietos,1079,78.2,35925
+64766,Los Angeles,Lowell Joint,1211,38.6,35925
+64774,Los Angeles,Lynwood Unified,12126,94.8,35925
+64790,Los Angeles,Monrovia Unified,3074,58.6,35925
+64808,Los Angeles,Montebello Unified,18752,81.2,35925
+64816,Los Angeles,Mountain View Elementary,5613,97.0,35925
+64832,Los Angeles,Newhall,2440,41.2,35925
+64840,Los Angeles,Norwalk-La Mirada Unified,11633,71.8,35925
+64857,Los Angeles,Palmdale Elementary,19053,89.0,35925
+64865,Los Angeles,Palos Verdes Peninsula Unified,798,7.6,35925
+64873,Los Angeles,Paramount Unified,12668,92.1,35925
+64881,Los Angeles,Pasadena Unified,10768,64.2,35925
+64907,Los Angeles,Pomona Unified,20500,91.6,35925
+64931,Los Angeles,Rosemead Elementary,1812,77.4,35925
+64964,Los Angeles,San Marino Unified,221,7.8,35925
+64980,Los Angeles,Santa Monica-Malibu Unified,2235,22.5,35925
+64998,Los Angeles,Saugus Union,2195,24.2,35925
+65029,Los Angeles,South Pasadena Unified,763,16.2,35925
+65037,Los Angeles,South Whittier Elementary,2075,84.9,35925
+65045,Los Angeles,Sulphur Springs Union,2591,51.1,35925
+65052,Los Angeles,Temple City Unified,2451,44.7,35925
+65060,Los Angeles,Torrance Unified,6625,29.5,35925
+65078,Los Angeles,Valle Lindo Elementary,790,78.6,35925
+65094,Los Angeles,West Covina Unified,10199,69.7,35925
+65102,Los Angeles,Westside Union Elementary,4633,50.5,35925
+65110,Los Angeles,Whittier City Elementary,4331,74.2,35925
+65128,Los Angeles,Whittier Union High,7818,69.5,35925
+65136,Los Angeles,William S. Hart Union High,7815,33.1,35925
+65151,Los Angeles,Wilsona Elementary,1139,94.4,35925
+73437,Los Angeles,Compton Unified,20651,93.4,35925
+73445,Los Angeles,Hacienda la Puente Unified,12573,72.6,35925
+73452,Los Angeles,Rowland Unified,10173,73.7,35925
+73460,Los Angeles,Walnut Valley Unified,3220,23.9,35925
+75291,Los Angeles,San Gabriel Unified,3152,58.7,35925
+75309,Los Angeles,Acton-Agua Dulce Unified,7586,60.5,35925
+75333,Los Angeles,Manhattan Beach Unified,276,4.6,35925
+75341,Los Angeles,Redondo Beach Unified,1494,15.2,35925
+75713,Los Angeles,Alhambra Unified,9102,57.8,35925
+76869,Los Angeles,Wiseburn Unified,1666,35.0,35925
+65177,Madera,Alview-Dairyland Union Elementary,218,59.9,31609
+65185,Madera,Bass Lake Joint Union Elementary,464,56.2,31609
+65193,Madera,Chowchilla Elementary,1869,85.2,31609
+65201,Madera,Chowchilla Union High,850,77.4,31609
+65243,Madera,Madera Unified,18868,90.2,31609
+65276,Madera,Raymond-Knowles Union Elementary,42,59.2,31609
+75580,Madera,Golden Valley Unified,888,42.5,31609
+75606,Madera,Chawanakee Unified,856,55.9,31609
+76414,Madera,Yosemite Unified,924,55.0,31609
+65300,Marin,Bolinas-Stinson Union,32,38.1,67925
+65318,Marin,Miller Creek Elementary,285,15.3,67925
+65334,Marin,Kentfield Elementary,145,13.2,67925
+65342,Marin,Laguna Joint Elementary,6,42.9,67925
+65359,Marin,Lagunitas Elementary,39,17.0,67925
+65367,Marin,Larkspur-Corte Madera,131,9.1,67925
+65375,Marin,Lincoln Elementary,0,0.0,67925
+65391,Marin,Mill Valley Elementary,147,5.6,67925
+65409,Marin,Nicasio,15,44.1,67925
+65417,Marin,Novato Unified,2846,38.1,67925
+65425,Marin,Reed Union Elementary,62,5.1,67925
+65433,Marin,Ross Elementary,6,1.6,67925
+65458,Marin,San Rafael City Elementary,3026,68.5,67925
+65466,Marin,San Rafael City High,1442,54.1,67925
+65474,Marin,Sausalito Marin City,228,49.9,67925
+65482,Marin,Tamalpais Union High,563,10.9,67925
+73361,Marin,Shoreline Unified,319,63.8,67925
+75002,Marin,Ross Valley Elementary,194,11.0,67925
+65532,Mariposa,Mariposa County Unified,1180,67.2,33858
+65540,Mendocino,Anderson Valley Unified,350,80.6,34119
+65557,Mendocino,Arena Union Elementary,145,52.5,34119
+65565,Mendocino,Fort Bragg Unified,1438,80.8,34119
+65573,Mendocino,Manchester Union Elementary,23,53.5,34119
+65581,Mendocino,Mendocino Unified,207,43.4,34119
+65599,Mendocino,Point Arena Joint Union High,103,73.0,34119
+65607,Mendocino,Round Valley Unified,478,96.2,34119
+65615,Mendocino,Ukiah Unified,5093,78.4,34119
+65623,Mendocino,Willits Unified,1154,61.8,34119
+73866,Mendocino,Potter Valley Community Unified,159,58.7,34119
+73916,Mendocino,Laytonville Unified,208,57.8,34119
+75218,Mendocino,Leggett Valley Unified,67,50.0,34119
+65631,Merced,Atwater Elementary,3896,80.9,32697
+65649,Merced,Ballico-Cressey Elementary,217,62.4,32697
+65680,Merced,El Nido Elementary,146,93.0,32697
+65698,Merced,Hilmar Unified,1298,55.2,32697
+65722,Merced,Le Grand Union Elementary,296,82.0,32697
+65730,Merced,Le Grand Union High,460,89.5,32697
+65748,Merced,Livingston Union,2096,84.7,32697
+65755,Merced,Los Banos Unified,7943,73.2,32697
+65763,Merced,McSwain Union Elementary,322,38.4,32697
+65771,Merced,Merced City Elementary,8137,75.3,32697
+65789,Merced,Merced Union High,8495,77.4,32697
+65813,Merced,Plainsburg Union Elementary,35,33.7,32697
+65821,Merced,Planada Elementary,773,92.2,32697
+65839,Merced,Snelling-Merced Falls Union Elementary,57,76.0,32697
+65862,Merced,Weaver Union,2406,81.3,32697
+65870,Merced,Winton,1781,91.6,32697
+73619,Merced,Gustine Unified,1503,85.2,32697
+73726,Merced,Merced River Union Elementary,185,84.9,32697
+75317,Merced,Dos Palos Oro Loma Joint Unified,2116,92.3,32697
+75366,Merced,Delhi Unified,2121,84.7,32697
+65896,Modoc,Surprise Valley Joint Unified,77,63.6,32627
+73585,Modoc,Modoc Joint Unified,526,64.6,32627
+73593,Modoc,Tulelake Basin Joint Unified,340,83.5,32627
+73668,Mono,Eastern Sierra Unified,260,65.0,36904
+73692,Mono,Mammoth Unified,532,47.5,36904
+65961,Monterey,Alisal Union,7565,90.4,38130
+65979,Monterey,Bradley Union Elementary,30,43.5,38130
+65987,Monterey,Carmel Unified,334,14.3,38130
+65995,Monterey,Chualar Union,270,88.5,38130
+66027,Monterey,Graves Elementary,18,45.0,38130
+66035,Monterey,Greenfield Union Elementary,3061,88.3,38130
+66050,Monterey,King City Union,2291,89.7,38130
+66068,Monterey,South Monterey County Joint Union High,2293,86.2,38130
+66076,Monterey,Lagunita Elementary,15,16.0,38130
+66084,Monterey,Mission Union Elementary,30,24.4,38130
+66092,Monterey,Monterey Peninsula Unified,6691,67.0,38130
+66134,Monterey,Pacific Grove Unified,394,20.7,38130
+66142,Monterey,Salinas City Elementary,6580,79.6,38130
+66159,Monterey,Salinas Union High,14285,87.0,38130
+66167,Monterey,San Antonio Union Elementary,69,57.5,38130
+66175,Monterey,San Ardo Union Elementary,103,92.8,38130
+66183,Monterey,San Lucas Union Elementary,62,87.3,38130
+66191,Monterey,Santa Rita Union Elementary,2565,73.9,38130
+66225,Monterey,Spreckels Union Elementary,146,15.3,38130
+66233,Monterey,Washington Union Elementary,76,9.6,38130
+73825,Monterey,North Monterey County Unified,3855,84.1,38130
+75150,Monterey,Big Sur Unified,24,23.3,38130
+75440,Monterey,Soledad Unified,4521,92.1,38130
+75473,Monterey,Gonzales Unified,1971,87.4,38130
+66241,Napa,Calistoga Joint Unified,667,76.8,47607
+66258,Napa,Howell Mountain Elementary,33,37.5,47607
+66266,Napa,Napa Valley Unified,9098,52.8,47607
+66282,Napa,Pope Valley Union Elementary,33,66.0,47607
+66290,Napa,Saint Helena Unified,532,44.8,47607
+66316,Nevada,Chicago Park Elementary,67,43.8,41039
+66324,Nevada,Clear Creek Elementary,68,42.0,41039
+66332,Nevada,Grass Valley Elementary,984,58.1,41039
+66340,Nevada,Nevada City Elementary,218,31.3,41039
+66357,Nevada,Nevada Joint Union High,1025,38.2,41039
+66373,Nevada,Pleasant Ridge Union Elementary,356,28.6,41039
+66407,Nevada,Union Hill Elementary,294,42.5,41039
+66415,Nevada,Twin Ridges Elementary,69,84.1,41039
+76877,Nevada,Penn Valley Union Elementary,279,49.5,41039
+66423,Orange,Anaheim Elementary,13969,86.4,43800
+66431,Orange,Anaheim Union High,23142,79.3,43800
+66449,Orange,Brea-Olinda Unified,1636,27.3,43800
+66456,Orange,Buena Park Elementary,3088,74.7,43800
+66464,Orange,Capistrano Unified,13426,26.6,43800
+66472,Orange,Centralia Elementary,2253,55.7,43800
+66480,Orange,Cypress Elementary,1146,32.4,43800
+66498,Orange,Fountain Valley Elementary,1495,24.2,43800
+66506,Orange,Fullerton Elementary,6017,49.6,43800
+66514,Orange,Fullerton Joint Union High,5879,43.6,43800
+66522,Orange,Garden Grove Unified,29020,72.3,43800
+66530,Orange,Huntington Beach City Elementary,1096,19.6,43800
+66548,Orange,Huntington Beach Union High,5637,36.3,43800
+66555,Orange,Laguna Beach Unified,315,12.0,43800
+66563,Orange,La Habra City Elementary,3051,67.2,43800
+66589,Orange,Magnolia Elementary,4508,83.7,43800
+66597,Orange,Newport-Mesa Unified,8875,47.8,43800
+66613,Orange,Ocean View,4150,56.6,43800
+66621,Orange,Orange Unified,12227,45.4,43800
+66647,Orange,Placentia-Yorba Linda Unified,11058,45.5,43800
+66670,Orange,Santa Ana Unified,40700,87.4,43800
+66696,Orange,Savanna Elementary,1283,65.8,43800
+66746,Orange,Westminster,5904,68.6,43800
+73635,Orange,Saddleback Valley Unified,7542,30.2,43800
+73643,Orange,Tustin Unified,9199,40.4,43800
+73650,Orange,Irvine Unified,6783,19.0,43800
+73924,Orange,Los Alamitos Unified,1555,16.7,43800
+66761,Placer,Ackerman Charter,156,27.3,57440
+66779,Placer,Alta-Dutch Flat Union Elementary,35,42.7,57440
+66787,Placer,Auburn Union Elementary,991,56.9,57440
+66795,Placer,Colfax Elementary,147,43.0,57440
+66803,Placer,Dry Creek Joint Elementary,2499,39.4,57440
+66829,Placer,Eureka Union,410,13.0,57440
+66837,Placer,Foresthill Union Elementary,149,38.0,57440
+66845,Placer,Loomis Union Elementary,388,13.6,57440
+66852,Placer,Newcastle Elementary,249,12.2,57440
+66886,Placer,Placer Hills Union Elementary,194,27.0,57440
+66894,Placer,Placer Union High,922,22.6,57440
+66910,Placer,Roseville City Elementary,3118,28.3,57440
+66928,Placer,Roseville Joint Union High,3572,29.5,57440
+66944,Placer,Tahoe-Truckee Unified,1719,41.3,57440
+66951,Placer,Western Placer Unified,3838,36.1,57440
+75085,Placer,Rocklin Unified,2379,17.9,57440
+66969,Plumas,Plumas Unified,1240,60.9,37225
+66977,Riverside,Alvord Unified,13595,76.9,35590
+66985,Riverside,Banning Unified,4088,92.1,35590
+66993,Riverside,Beaumont Unified,7953,53.4,35590
+67033,Riverside,Corona-Norco Unified,22848,44.5,35590
+67041,Riverside,Desert Center Unified,17,85.0,35590
+67058,Riverside,Desert Sands Unified,18827,69.8,35590
+67082,Riverside,Hemet Unified,18848,87.4,35590
+67090,Riverside,Jurupa Unified,14323,76.3,35590
+67116,Riverside,Menifee Union Elementary,5653,46.6,35590
+67124,Riverside,Moreno Valley Unified,25870,81.9,35590
+67157,Riverside,Nuview Union,1668,77.3,35590
+67173,Riverside,Palm Springs Unified,21170,97.5,35590
+67181,Riverside,Palo Verde Unified,2728,71.7,35590
+67199,Riverside,Perris Elementary,4441,81.6,35590
+67207,Riverside,Perris Union High,8451,77.5,35590
+67215,Riverside,Riverside Unified,28523,71.2,35590
+67231,Riverside,Romoland Elementary,2934,72.2,35590
+67249,Riverside,San Jacinto Unified,9352,81.6,35590
+73676,Riverside,Coachella Valley Unified,16350,93.2,35590
+75176,Riverside,Lake Elsinore Unified,14100,66.9,35590
+75192,Riverside,Temecula Valley Unified,8076,28.5,35590
+75200,Riverside,Murrieta Valley Unified,8287,36.1,35590
+75242,Riverside,Val Verde Unified,16345,84.7,35590
+67280,Sacramento,Arcohe Union Elementary,187,40.1,43348
+67314,Sacramento,Elk Grove Unified,31224,48.8,43348
+67322,Sacramento,Elverta Joint Elementary,151,55.7,43348
+67330,Sacramento,Folsom-Cordova Unified,6251,31.1,43348
+67348,Sacramento,Galt Joint Union Elementary,2044,61.3,43348
+67355,Sacramento,Galt Joint Union High,1125,50.9,43348
+67413,Sacramento,River Delta Joint Unified,1215,53.3,43348
+67421,Sacramento,Robla Elementary,2101,90.1,43348
+67439,Sacramento,Sacramento City Unified,32138,71.3,43348
+67447,Sacramento,San Juan Unified,24949,49.1,43348
+73973,Sacramento,Center Joint Unified,2930,70.4,43348
+75283,Sacramento,Natomas Unified,8232,52.5,43348
+76505,Sacramento,Twin Rivers Unified,28324,87.7,43348
+67454,San Benito,Bitterwater-Tully Elementary,17,50.0,46625
+67462,San Benito,Cienega Union Elementary,12,41.4,46625
+67470,San Benito,Hollister,3882,65.2,46625
+67488,San Benito,Jefferson Elementary,3,50.0,46625
+67504,San Benito,North County Joint Union Elementary,322,44.2,46625
+67520,San Benito,Panoche Elementary,5,71.4,46625
+67538,San Benito,San Benito High,1902,56.8,46625
+67553,San Benito,Southside Elementary,83,40.5,46625
+67561,San Benito,Tres Pinos Union Elementary,32,52.5,46625
+67579,San Benito,Willow Grove Union Elementary,12,100.0,46625
+75259,San Benito,Aromas - San Juan Unified,564,55.5,46625
+67587,San Bernardino,Adelanto Elementary,6013,74.9,35438
+67595,San Bernardino,Alta Loma Elementary,1924,34.0,35438
+67611,San Bernardino,Barstow Unified,4869,79.4,35438
+67637,San Bernardino,Bear Valley Unified,1528,68.3,35438
+67645,San Bernardino,Central Elementary,2523,59.8,35438
+67652,San Bernardino,Chaffey Joint Union High,15189,63.7,35438
+67678,San Bernardino,Chino Valley Unified,12051,44.1,35438
+67686,San Bernardino,Colton Joint Unified,17896,87.1,35438
+67694,San Bernardino,Cucamonga Elementary,1571,66.6,35438
+67702,San Bernardino,Etiwanda Elementary,4544,33.7,35438
+67710,San Bernardino,Fontana Unified,30049,84.7,35438
+67736,San Bernardino,Helendale Elementary,2934,45.7,35438
+67777,San Bernardino,Morongo Unified,6061,75.7,35438
+67785,San Bernardino,Mountain View Elementary,1316,50.1,35438
+67793,San Bernardino,Mt. Baldy Joint Elementary,28,32.2,35438
+67801,San Bernardino,Needles Unified,742,76.7,35438
+67819,San Bernardino,Ontario-Montclair,16991,88.1,35438
+67827,San Bernardino,Oro Grande,4446,80.8,35438
+67843,San Bernardino,Redlands Unified,14384,70.7,35438
+67850,San Bernardino,Rialto Unified,21537,88.0,35438
+67868,San Bernardino,Rim of the World Unified,1689,57.7,35438
+67876,San Bernardino,San Bernardino City Unified,45781,89.2,35438
+67892,San Bernardino,Trona Joint Unified,211,81.5,35438
+67918,San Bernardino,Victor Elementary,10688,86.5,35438
+67934,San Bernardino,Victor Valley Union High,10119,88.1,35438
+67959,San Bernardino,Yucaipa-Calimesa Joint Unified,4844,50.0,35438
+73858,San Bernardino,Baker Valley Unified,98,77.2,35438
+73890,San Bernardino,Silver Valley Unified,1133,56.3,35438
+73957,San Bernardino,Snowline Joint Unified,5339,72.6,35438
+75044,San Bernardino,Hesperia Unified,16041,66.2,35438
+75051,San Bernardino,Lucerne Valley Unified,5629,54.6,35438
+75069,San Bernardino,Upland Unified,5893,57.6,35438
+75077,San Bernardino,Apple Valley Unified,10230,71.2,35438
+67967,San Diego,Alpine Union Elementary,494,32.2,43442
+67983,San Diego,Borrego Springs Unified,2376,76.9,43442
+67991,San Diego,Cajon Valley Union,11586,69.2,43442
+68007,San Diego,Cardiff Elementary,94,14.9,43442
+68023,San Diego,Chula Vista Elementary,15595,52.9,43442
+68031,San Diego,Coronado Unified,285,10.9,43442
+68049,San Diego,Dehesa Elementary,3745,37.7,43442
+68056,San Diego,Del Mar Union Elementary,316,8.2,43442
+68080,San Diego,Encinitas Union Elementary,755,15.4,43442
+68098,San Diego,Escondido Union,12879,71.8,43442
+68106,San Diego,Escondido Union High,6445,68.0,43442
+68114,San Diego,Fallbrook Union Elementary,3565,75.0,43442
+68122,San Diego,Fallbrook Union High,1543,71.6,43442
+68130,San Diego,Grossmont Union High,12776,58.0,43442
+68155,San Diego,Jamul-Dulzura Union Elementary,332,44.7,43442
+68163,San Diego,Julian Union Elementary,1007,54.7,43442
+68171,San Diego,Julian Union High,53,50.0,43442
+68189,San Diego,Lakeside Union Elementary,2165,42.6,43442
+68197,San Diego,La Mesa-Spring Valley,6596,57.2,43442
+68205,San Diego,Lemon Grove,2255,71.4,43442
+68213,San Diego,Mountain Empire Unified,2126,52.3,43442
+68221,San Diego,National Elementary,3827,74.3,43442
+68296,San Diego,Poway Unified,5582,15.7,43442
+68304,San Diego,Ramona City Unified,1995,39.3,43442
+68312,San Diego,Rancho Santa Fe Elementary,28,5.1,43442
+68338,San Diego,San Diego Unified,66472,56.1,43442
+68346,San Diego,San Dieguito Union High,1568,12.1,43442
+68353,San Diego,San Pasqual Union Elementary,124,24.8,43442
+68361,San Diego,Santee,2247,34.7,43442
+68379,San Diego,San Ysidro Elementary,3393,76.8,43442
+68387,San Diego,Solana Beach Elementary,255,9.4,43442
+68395,San Diego,South Bay Union,3745,58.1,43442
+68403,San Diego,Spencer Valley Elementary,2433,62.7,43442
+68411,San Diego,Sweetwater Union High,22234,57.6,43442
+68437,San Diego,Vallecitos Elementary,187,100.0,43442
+68452,San Diego,Vista Unified,16019,69.9,43442
+73551,San Diego,Carlsbad Unified,2304,21.2,43442
+73569,San Diego,Oceanside Unified,11104,58.5,43442
+73791,San Diego,San Marcos Unified,6608,33.2,43442
+75416,San Diego,Warner Unified,1060,43.7,43442
+75614,San Diego,Valley Center-Pauma Unified,2048,53.0,43442
+76851,San Diego,Bonsall Unified,725,33.5,43442
+68478,San Francisco,San Francisco Unified,30866,52.6,66004
+68486,San Joaquin,Banta Elementary,706,36.3,39331
+68502,San Joaquin,Escalon Unified,1433,48.2,39331
+68544,San Joaquin,Jefferson Elementary,537,24.0,39331
+68569,San Joaquin,Lincoln Unified,5329,59.6,39331
+68577,San Joaquin,Linden Unified,1354,58.3,39331
+68585,San Joaquin,Lodi Unified,21633,70.4,39331
+68593,San Joaquin,Manteca Unified,16029,67.7,39331
+68619,San Joaquin,New Hope Elementary,159,89.8,39331
+68627,San Joaquin,New Jerusalem Elementary,3831,58.9,39331
+68635,San Joaquin,Oak View Union Elementary,161,44.4,39331
+68650,San Joaquin,Ripon Unified,1701,36.0,39331
+68676,San Joaquin,Stockton Unified,33230,81.8,39331
+75499,San Joaquin,Tracy Joint Unified,8379,53.8,39331
+76760,San Joaquin,Lammersville Joint Unified,901,14.1,39331
+68700,San Luis Obispo,Atascadero Unified,1460,33.2,45527
+68726,San Luis Obispo,Cayucos Elementary,59,36.4,45527
+68759,San Luis Obispo,Lucia Mar Unified,6224,62.7,45527
+68791,San Luis Obispo,Pleasant Valley Joint Union Elementary,21,36.2,45527
+68809,San Luis Obispo,San Luis Coastal Unified,2569,34.3,45527
+68825,San Luis Obispo,San Miguel Joint Union,530,59.0,45527
+68833,San Luis Obispo,Shandon Joint Unified,225,79.8,45527
+68841,San Luis Obispo,Templeton Unified,498,21.5,45527
+75457,San Luis Obispo,Paso Robles Joint Unified,3173,47.6,45527
+75465,San Luis Obispo,Coast Unified,405,75.6,45527
+68858,San Mateo,Bayshore Elementary,240,66.5,67870
+68866,San Mateo,Belmont-Redwood Shores Elementary,330,7.9,67870
+68874,San Mateo,Brisbane Elementary,99,20.9,67870
+68882,San Mateo,Burlingame Elementary,393,11.6,67870
+68890,San Mateo,Cabrillo Unified,1295,44.1,67870
+68908,San Mateo,Hillsborough City Elementary,39,3.1,67870
+68916,San Mateo,Jefferson Elementary,3277,49.3,67870
+68924,San Mateo,Jefferson Union High,1447,30.8,67870
+68932,San Mateo,Pacifica,555,18.5,67870
+68940,San Mateo,La Honda-Pescadero Unified,154,56.0,67870
+68957,San Mateo,Las Lomitas Elementary,72,6.5,67870
+68965,San Mateo,Menlo Park City Elementary,220,7.9,67870
+68973,San Mateo,Millbrae Elementary,586,26.2,67870
+68981,San Mateo,Portola Valley Elementary,34,6.9,67870
+68999,San Mateo,Ravenswood City Elementary,2747,91.8,67870
+69005,San Mateo,Redwood City Elementary,4859,60.1,67870
+69013,San Mateo,San Bruno Park Elementary,761,33.5,67870
+69021,San Mateo,San Carlos Elementary,197,6.0,67870
+69039,San Mateo,San Mateo-Foster City,3374,30.8,67870
+69047,San Mateo,San Mateo Union High,2424,24.8,67870
+69062,San Mateo,Sequoia Union High,3926,38.0,67870
+69070,San Mateo,South San Francisco Unified,3147,38.5,67870
+69088,San Mateo,Woodside Elementary,41,11.1,67870
+69104,Santa Barbara,Ballard Elementary,11,8.6,40400
+69112,Santa Barbara,Blochman Union Elementary,461,30.9,40400
+69120,Santa Barbara,Santa Maria-Bonita,15146,90.9,40400
+69138,Santa Barbara,Buellton Union Elementary,242,43.8,40400
+69146,Santa Barbara,Carpinteria Unified,1516,72.5,40400
+69161,Santa Barbara,Cold Spring Elementary,6,3.4,40400
+69179,Santa Barbara,College Elementary,141,42.0,40400
+69195,Santa Barbara,Goleta Union Elementary,1219,36.1,40400
+69203,Santa Barbara,Guadalupe Union Elementary,1111,87.5,40400
+69211,Santa Barbara,Hope Elementary,246,31.7,40400
+69229,Santa Barbara,Lompoc Unified,6204,64.3,40400
+69245,Santa Barbara,Los Olivos Elementary,37,23.9,40400
+69252,Santa Barbara,Montecito Union Elementary,34,9.1,40400
+69260,Santa Barbara,Orcutt Union Elementary,1895,39.1,40400
+69310,Santa Barbara,Santa Maria Joint Union High,6883,76.9,40400
+69328,Santa Barbara,Santa Ynez Valley Union High,248,28.7,40400
+69336,Santa Barbara,Solvang Elementary,261,43.0,40400
+69344,Santa Barbara,Vista del Mar Union,11,44.0,40400
+75010,Santa Barbara,Cuyama Joint Unified,172,67.5,40400
+76786,Santa Barbara,Santa Barbara Unified,7408,52.2,40400
+69369,Santa Clara,Alum Rock Union Elementary,7794,79.1,69431
+69377,Santa Clara,Berryessa Union Elementary,1886,28.9,69431
+69385,Santa Clara,Cambrian,432,13.6,69431
+69393,Santa Clara,Campbell Union,2792,42.2,69431
+69401,Santa Clara,Campbell Union High,2387,27.7,69431
+69419,Santa Clara,Cupertino Union,925,5.9,69431
+69427,Santa Clara,East Side Union High,13430,51.8,69431
+69435,Santa Clara,Evergreen Elementary,2699,27.6,69431
+69450,Santa Clara,Franklin-McKinley Elementary,6629,73.8,69431
+69468,Santa Clara,Fremont Union High,1551,14.3,69431
+69484,Santa Clara,Gilroy Unified,6458,56.8,69431
+69492,Santa Clara,Lakeside Joint,4,6.1,69431
+69500,Santa Clara,Loma Prieta Joint Union Elementary,26,5.9,69431
+69518,Santa Clara,Los Altos Elementary,240,6.7,69431
+69526,Santa Clara,Los Gatos Union Elementary,111,4.1,69431
+69534,Santa Clara,Los Gatos-Saratoga Union High,182,5.2,69431
+69542,Santa Clara,Luther Burbank,415,87.4,69431
+69575,Santa Clara,Moreland,1140,26.1,69431
+69583,Santa Clara,Morgan Hill Unified,3273,36.8,69431
+69591,Santa Clara,Mountain View Whisman,1392,29.3,69431
+69609,Santa Clara,Mountain View-Los Altos Union High,712,15.6,69431
+69617,Santa Clara,Mount Pleasant Elementary,1090,56.5,69431
+69625,Santa Clara,Oak Grove Elementary,2717,29.0,69431
+69633,Santa Clara,Orchard Elementary,268,32.9,69431
+69641,Santa Clara,Palo Alto Unified,1178,11.0,69431
+69666,Santa Clara,San Jose Unified,11783,41.0,69431
+69674,Santa Clara,Santa Clara Unified,5603,37.8,69431
+69682,Santa Clara,Saratoga Union Elementary,56,3.4,69431
+69690,Santa Clara,Sunnyvale,1607,27.0,69431
+69708,Santa Clara,Union Elementary,568,9.9,69431
+73387,Santa Clara,Milpitas Unified,3045,29.2,69431
+69732,Santa Cruz,Bonny Doon Union Elementary,19,17.8,45419
+69757,Santa Cruz,Happy Valley Elementary,11,10.5,45419
+69765,Santa Cruz,Live Oak Elementary,980,56.6,45419
+69773,Santa Cruz,Mountain Elementary,27,20.3,45419
+69781,Santa Cruz,Pacific Elementary,101,71.6,45419
+69799,Santa Cruz,Pajaro Valley Unified,14649,76.0,45419
+69807,Santa Cruz,San Lorenzo Valley Unified,1391,24.4,45419
+69815,Santa Cruz,Santa Cruz City Elementary,661,39.3,45419
+69823,Santa Cruz,Santa Cruz City High,1738,37.4,45419
+69849,Santa Cruz,Soquel Union Elementary,482,27.6,45419
+75432,Santa Cruz,Scotts Valley Unified,385,14.6,45419
+69856,Shasta,Anderson Union High,849,52.4,37065
+69872,Shasta,Bella Vista Elementary,190,56.4,37065
+69880,Shasta,Black Butte Union Elementary,167,75.6,37065
+69914,Shasta,Cascade Union Elementary,928,71.7,37065
+69922,Shasta,Castle Rock Union Elementary,31,56.4,37065
+69948,Shasta,Columbia Elementary,580,35.8,37065
+69955,Shasta,Cottonwood Union Elementary,581,48.7,37065
+69971,Shasta,Enterprise Elementary,2577,70.0,37065
+69989,Shasta,Fall River Joint Unified,726,60.9,37065
+69997,Shasta,French Gulch-Whiskeytown Elementary,25,83.3,37065
+70003,Shasta,Grant Elementary,116,18.3,37065
+70011,Shasta,Happy Valley Union Elementary,302,64.5,37065
+70029,Shasta,"Igo, Ono, Platina Union Elementary",31,83.8,37065
+70037,Shasta,Indian Springs Elementary,17,89.5,37065
+70045,Shasta,Junction Elementary,123,36.6,37065
+70052,Shasta,Millville Elementary,84,34.6,37065
+70078,Shasta,North Cow Creek Elementary,57,23.4,37065
+70086,Shasta,Oak Run Elementary,42,79.2,37065
+70094,Shasta,Pacheco Union Elementary,342,53.9,37065
+70110,Shasta,Redding Elementary,1927,63.5,37065
+70128,Shasta,Shasta Union Elementary,54,47.4,37065
+70136,Shasta,Shasta Union High,2035,37.2,37065
+70169,Shasta,Whitmore Union Elementary,277,53.7,37065
+73700,Shasta,Mountain Union Elementary,58,90.6,37065
+75267,Shasta,Gateway Unified,1680,71.7,37065
+70177,Sierra,Sierra-Plumas Joint Unified,184,46.6,41714
+70185,Siskiyou,Big Springs Union Elementary,114,64.0,33630
+70193,Siskiyou,Bogus Elementary,18,90.0,33630
+70201,Siskiyou,Butteville Union Elementary,63,38.2,33630
+70227,Siskiyou,Delphic Elementary,30,50.8,33630
+70243,Siskiyou,Dunsmuir Elementary,81,100.0,33630
+70250,Siskiyou,Dunsmuir Joint Union High,43,79.6,33630
+70292,Siskiyou,Forks of Salmon Elementary,6,75.0,33630
+70318,Siskiyou,Gazelle Union Elementary,38,100.0,33630
+70326,Siskiyou,Grenada Elementary,89,43.6,33630
+70334,Siskiyou,Happy Camp Union Elementary,67,69.1,33630
+70359,Siskiyou,Hornbrook Elementary,43,84.3,33630
+70367,Siskiyou,Junction Elementary,11,61.1,33630
+70375,Siskiyou,Klamath River Union Elementary,10,100.0,33630
+70383,Siskiyou,Little Shasta Elementary,11,68.8,33630
+70409,Siskiyou,McCloud Union Elementary,46,78.0,33630
+70417,Siskiyou,Montague Elementary,115,63.2,33630
+70425,Siskiyou,Mt. Shasta Union Elementary,189,39.4,33630
+70458,Siskiyou,Seiad Elementary,9,100.0,33630
+70466,Siskiyou,Siskiyou Union High,328,61.1,33630
+70482,Siskiyou,Weed Union Elementary,243,81.5,33630
+70490,Siskiyou,Willow Creek Elementary,26,76.5,33630
+70508,Siskiyou,Yreka Union Elementary,677,75.1,33630
+70516,Siskiyou,Yreka Union High,401,57.5,33630
+73684,Siskiyou,Butte Valley Unified,182,65.9,33630
+76455,Siskiyou,Scott Valley Unified,368,60.1,33630
+70524,Solano,Benicia Unified,1101,24.3,47787
+70532,Solano,Dixon Unified,1685,49.5,47787
+70540,Solano,Fairfield-Suisun Unified,11916,57.6,47787
+70565,Solano,Travis Unified,1398,26.5,47787
+70573,Solano,Vacaville Unified,5179,39.8,47787
+70581,Solano,Vallejo City Unified,9550,72.1,47787
+70599,Sonoma,Alexander Valley Union Elementary,27,23.5,47404
+70607,Sonoma,West Sonoma County Union High,773,41.8,47404
+70615,Sonoma,Bellevue Union,1267,82.1,47404
+70623,Sonoma,Bennett Valley Union Elementary,203,20.5,47404
+70649,Sonoma,Cinnabar Elementary,164,65.3,47404
+70656,Sonoma,Cloverdale Unified,844,62.5,47404
+70672,Sonoma,Dunham Elementary,39,25.0,47404
+70680,Sonoma,Forestville Union Elementary,143,53.6,47404
+70698,Sonoma,Fort Ross Elementary,6,54.5,47404
+70706,Sonoma,Geyserville Unified,117,56.0,47404
+70714,Sonoma,Gravenstein Union Elementary,167,22.1,47404
+70722,Sonoma,Guerneville Elementary,258,56.1,47404
+70730,Sonoma,Harmony Union Elementary,229,37.1,47404
+70763,Sonoma,Horicon Elementary,50,84.7,47404
+70789,Sonoma,Kenwood,30,22.9,47404
+70797,Sonoma,Liberty Elementary,757,50.9,47404
+70805,Sonoma,Mark West Union Elementary,426,32.8,47404
+70813,Sonoma,Monte Rio Union Elementary,61,98.4,47404
+70821,Sonoma,Montgomery Elementary,13,59.1,47404
+70839,Sonoma,Oak Grove Union Elementary,462,35.7,47404
+70847,Sonoma,Old Adobe Union,622,30.2,47404
+70854,Sonoma,Petaluma City Elementary,905,37.3,47404
+70862,Sonoma,Petaluma Joint Union High,2170,41.5,47404
+70870,Sonoma,Piner-Olivet Union Elementary,561,45.2,47404
+70888,Sonoma,Kashia Elementary,16,100.0,47404
+70896,Sonoma,Rincon Valley Union Elementary,1139,36.8,47404
+70904,Sonoma,Roseland,2530,88.1,47404
+70912,Sonoma,Santa Rosa Elementary,2855,61.4,47404
+70920,Sonoma,Santa Rosa High,5382,49.7,47404
+70938,Sonoma,Sebastopol Union Elementary,342,41.9,47404
+70953,Sonoma,Sonoma Valley Unified,2146,54.3,47404
+70961,Sonoma,Twin Hills Union Elementary,284,25.8,47404
+70979,Sonoma,Two Rock Union,53,43.1,47404
+70995,Sonoma,Waugh Elementary,108,13.4,47404
+71001,Sonoma,West Side Union Elementary,52,33.1,47404
+71019,Sonoma,Wilmar Union Elementary,53,24.4,47404
+71035,Sonoma,Wright Elementary,912,69.7,47404
+73882,Sonoma,Cotati-Rohnert Park Unified,2776,45.4,47404
+75358,Sonoma,Windsor Unified,2594,54.2,47404
+75390,Sonoma,Healdsburg Unified,752,57.1,47404
+71043,Stanislaus,Ceres Unified,12152,82.9,36771
+71050,Stanislaus,Chatom Union,416,72.6,36771
+71068,Stanislaus,Denair Unified,843,64.0,36771
+71076,Stanislaus,Empire Union Elementary,2258,78.8,36771
+71084,Stanislaus,Gratton Elementary,32,22.4,36771
+71092,Stanislaus,Hart-Ransom Union Elementary,531,44.0,36771
+71100,Stanislaus,Hickman Community Charter,346,32.7,36771
+71134,Stanislaus,Keyes Union,733,66.5,36771
+71142,Stanislaus,Knights Ferry Elementary,27,18.8,36771
+71167,Stanislaus,Modesto City Elementary,12937,84.7,36771
+71175,Stanislaus,Modesto City High,10699,67.0,36771
+71209,Stanislaus,Paradise Elementary,175,91.6,36771
+71217,Stanislaus,Patterson Joint Unified,4504,74.9,36771
+71233,Stanislaus,Roberts Ferry Union Elementary,105,61.4,36771
+71266,Stanislaus,Salida Union Elementary,1837,60.1,36771
+71274,Stanislaus,Shiloh Elementary,126,69.2,36771
+71282,Stanislaus,Stanislaus Union Elementary,2603,75.9,36771
+71290,Stanislaus,Sylvan Union Elementary,3960,50.0,36771
+71324,Stanislaus,Valley Home Joint Elementary,54,37.2,36771
+73601,Stanislaus,Newman-Crows Landing Unified,2276,70.8,36771
+75549,Stanislaus,Hughson Unified,976,47.4,36771
+75556,Stanislaus,Riverbank Unified,2022,68.8,36771
+75564,Stanislaus,Oakdale Joint Unified,2194,41.5,36771
+75572,Stanislaus,Waterford Unified,2047,71.1,36771
+75739,Stanislaus,Turlock Unified,7783,55.9,36771
+71357,Sutter,Brittan Elementary,180,42.2,35901
+71365,Sutter,Browns Elementary,58,45.3,35901
+71373,Sutter,East Nicolaus Joint Union High,72,23.3,35901
+71381,Sutter,Franklin Elementary,121,26.1,35901
+71399,Sutter,Live Oak Unified,1365,71.8,35901
+71407,Sutter,Marcum-Illinois Union Elementary,1034,36.8,35901
+71415,Sutter,Meridian Elementary,955,64.4,35901
+71423,Sutter,Nuestro Elementary,272,35.7,35901
+71431,Sutter,Pleasant Grove Joint Union,42,26.4,35901
+71449,Sutter,Sutter Union High,230,28.5,35901
+71456,Sutter,Winship-Robbins,589,47.4,35901
+71464,Sutter,Yuba City Unified,9770,76.8,35901
+71472,Tehama,Antelope Elementary,484,59.2,33357
+71498,Tehama,Corning Union Elementary,1567,78.9,33357
+71506,Tehama,Corning Union High,762,69.7,33357
+71522,Tehama,Evergreen Union,674,57.4,33357
+71530,Tehama,Flournoy Union Elementary,27,64.3,33357
+71548,Tehama,Gerber Union Elementary,285,74.6,33357
+71555,Tehama,Kirkwood Elementary,55,55.0,33357
+71563,Tehama,Lassen View Union Elementary,192,54.1,33357
+71571,Tehama,Los Molinos Unified,421,75.7,33357
+71621,Tehama,Red Bluff Union Elementary,1543,83.5,33357
+71639,Tehama,Red Bluff Joint Union High,1215,67.6,33357
+71647,Tehama,Reeds Creek Elementary,107,53.2,33357
+71654,Tehama,Richfield Elementary,129,55.1,33357
+71662,Trinity,Burnt Ranch Elementary,51,76.1,32164
+71670,Trinity,Coffee Creek Elementary,5,62.5,32164
+71696,Trinity,Douglas City Elementary,79,46.2,32164
+71738,Trinity,Junction City Elementary,51,71.8,32164
+71746,Trinity,Lewiston Elementary,57,79.2,32164
+71761,Trinity,Trinity Center Elementary,5,27.8,32164
+73833,Trinity,Southern Trinity Joint Unified,52,60.5,32164
+75028,Trinity,Mountain Valley Unified,251,81.5,32164
+76513,Trinity,Trinity Alps Unified,396,57.0,32164
+71795,Tulare,Allensworth Elementary,67,100.0,30151
+71803,Tulare,Alpaugh Unified,659,69.0,30151
+71811,Tulare,Alta Vista Elementary,885,61.3,30151
+71829,Tulare,Buena Vista Elementary,131,64.5,30151
+71837,Tulare,Burton Elementary,3552,73.4,30151
+71852,Tulare,Columbine Elementary,109,58.6,30151
+71860,Tulare,Cutler-Orosi Joint Unified,3812,95.1,30151
+71894,Tulare,Ducor Union Elementary,104,73.2,30151
+71902,Tulare,Earlimart Elementary,1527,96.6,30151
+71944,Tulare,Hope Elementary,175,73.2,30151
+71951,Tulare,Hot Springs Elementary,20,100.0,30151
+71969,Tulare,Kings River Union Elementary,358,90.2,30151
+71985,Tulare,Liberty Elementary,356,52.6,30151
+71993,Tulare,Lindsay Unified,3554,87.4,30151
+72009,Tulare,Monson-Sultana Joint Union Elementary,370,83.5,30151
+72017,Tulare,Oak Valley Union Elementary,423,73.4,30151
+72025,Tulare,Outside Creek Elementary,72,60.5,30151
+72033,Tulare,Palo Verde Union Elementary,451,86.2,30151
+72041,Tulare,Pixley Union Elementary,860,97.1,30151
+72058,Tulare,Pleasant View Elementary,353,80.4,30151
+72082,Tulare,Richgrove Elementary,537,96.4,30151
+72090,Tulare,Rockford Elementary,182,56.9,30151
+72108,Tulare,Saucelito Elementary,62,80.5,30151
+72116,Tulare,Sequoia Union Elementary,142,41.8,30151
+72132,Tulare,Springville Union Elementary,137,48.4,30151
+72140,Tulare,Stone Corral Elementary,619,90.1,30151
+72157,Tulare,Strathmore Union Elementary,682,95.0,30151
+72173,Tulare,Sundale Union Elementary,292,38.6,30151
+72181,Tulare,Sunnyside Union Elementary,305,86.2,30151
+72199,Tulare,Terra Bella Union Elementary,796,97.8,30151
+72207,Tulare,Three Rivers Union Elementary,30,28.8,30151
+72215,Tulare,Tipton Elementary,495,93.9,30151
+72223,Tulare,Traver Joint Elementary,207,91.6,30151
+72231,Tulare,Tulare City,7324,78.6,30151
+72249,Tulare,Tulare Joint Union High,4281,75.1,30151
+72256,Tulare,Visalia Unified,19512,67.6,30151
+72264,Tulare,Waukena Joint Union Elementary,180,80.4,30151
+72298,Tulare,Woodville Union Elementary,412,97.6,30151
+75325,Tulare,Farmersville Unified,2302,92.7,30151
+75523,Tulare,Porterville Unified,12556,87.4,30151
+75531,Tulare,Dinuba Unified,5617,84.6,30151
+76794,Tulare,Woodlake Unified,1844,89.1,30151
+76836,Tulare,Exeter Unified,1840,69.8,30151
+72306,Tuolumne,Belleview Elementary,79,48.2,39102
+72348,Tuolumne,Columbia Union,209,48.3,39102
+72355,Tuolumne,Curtis Creek Elementary,231,53.6,39102
+72363,Tuolumne,Jamestown Elementary,257,75.6,39102
+72371,Tuolumne,Sonora Elementary,305,43.7,39102
+72389,Tuolumne,Sonora Union High,365,35.7,39102
+72397,Tuolumne,Soulsbyville Elementary,157,33.0,39102
+72405,Tuolumne,Summerville Elementary,210,54.5,39102
+72413,Tuolumne,Summerville Union High,393,35.7,39102
+72421,Tuolumne,Twain Harte,132,52.2,39102
+75184,Tuolumne,Big Oak Flat-Groveland Unified,152,54.7,39102
+72447,Ventura,Briggs Elementary,316,63.3,44494
+72454,Ventura,Fillmore Unified,2978,82.1,44494
+72462,Ventura,Hueneme Elementary,6312,83.7,44494
+72470,Ventura,Mesa Union Elementary,435,39.9,44494
+72504,Ventura,Mupu Elementary,67,42.1,44494
+72512,Ventura,Ocean View,1865,81.5,44494
+72520,Ventura,Ojai Unified,1074,44.8,44494
+72538,Ventura,Oxnard,13753,90.9,44494
+72546,Ventura,Oxnard Union High,12403,68.4,44494
+72553,Ventura,Pleasant Valley,2194,32.3,44494
+72561,Ventura,Rio Elementary,3535,67.9,44494
+72579,Ventura,Santa Clara Elementary,7,12.7,44494
+72603,Ventura,Simi Valley Unified,4955,31.1,44494
+72611,Ventura,Somis Union,165,71.7,44494
+72652,Ventura,Ventura Unified,8636,54.4,44494
+73759,Ventura,Conejo Valley Unified,4111,23.6,44494
+73874,Ventura,Oak Park Unified,374,8.6,44494
+73940,Ventura,Moorpark Unified,1946,32.9,44494
+76828,Ventura,Santa Paula Unified,4316,84.9,44494
+72678,Yolo,Davis Joint Unified,1675,20.4,44881
+72686,Yolo,Esparto Unified,720,77.1,44881
+72694,Yolo,Washington Unified,5467,65.9,44881
+72702,Yolo,Winters Joint Unified,1194,55.6,44881
+72710,Yolo,Woodland Joint Unified,5521,57.2,44881
+72728,Yuba,Camptonville Elementary,252,44.1,37086
+72736,Yuba,Marysville Joint Unified,7278,73.3,37086
+72744,Yuba,Plumas Lake Elementary,485,36.0,37086
+72751,Yuba,Wheatland,535,41.9,37086
+72769,Yuba,Wheatland Union High,473,50.8,37086
